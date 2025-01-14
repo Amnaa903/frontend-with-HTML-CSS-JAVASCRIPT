@@ -1,3 +1,0 @@
-.Amna{
-background-colour:ol;
-}
