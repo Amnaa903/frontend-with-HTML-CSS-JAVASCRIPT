@@ -1,0 +1,36 @@
+@media  only screen and (max-width: 600px) {
+    h1{
+        background-color: aqua;
+    }
+}
+h1{
+    background-color: greenyellow;
+}
+
+
+
+ .def1:hover{
+background-color: rgb(160, 32, 32);
+text-decoration: underline;
+color: blue;
+width: 50%;
+font-size: 56pt;
+    }
+ 
+
+ .def1:focus{ 
+background-color: black;
+text-decoration-color: underline blueviolet;
+color: blue;
+width: 50%;
+font-size: 56pt;
+    }
+ 
+    .def1::first-letter{
+        
+          
+        color: blue;
+        width: 50%;
+        font-size: 56pt;
+        font-family: 'Courier New', Courier, monospace;
+            }
